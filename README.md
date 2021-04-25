@@ -39,6 +39,3 @@ As shown in the result session, all 6 machine learning models have 1.00 precisio
 I recommend Easy Ensemble AdaBoost Classifier since it can successfully find most of the high-risk and low-risk cases, although the precision for high-risk is only 0.09, but future verification after the screening can be used to furthur determine whether the case is in high-risk.
 
 
-
-
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
